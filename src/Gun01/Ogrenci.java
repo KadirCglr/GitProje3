@@ -7,7 +7,7 @@ public class Ogrenci {
             System.out.println("merhaba");
 
         }
-        System.out.println("ben kadir gitHub ile ilk günümüz");
+        System.out.println("ben kadir gitHub ile ilk günümüz.");
 
     }
 }
