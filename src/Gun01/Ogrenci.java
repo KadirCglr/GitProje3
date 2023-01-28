@@ -9,5 +9,7 @@ public class Ogrenci {
         }
         System.out.println("ben kadir gitHub ile ilk günümüz.");
 
+        System.out.println("merhaba 2");
+
     }
 }
